@@ -1,0 +1,11 @@
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojResolveAssemblyReference.cache
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Miro\source\repos\C# OOP Basics Exam - 18 March 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb
